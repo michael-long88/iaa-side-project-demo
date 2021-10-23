@@ -22,7 +22,7 @@ First-party plugins needed for Tailwind UI:
 ```sh
 git clone https://github.com/michael-long88/tailwind-starter-template.git
 cd tailwind-starter-template
-bash clone.sh new-project
+bash clone.sh new-project github-repo-url
 ```
 
 npm:
